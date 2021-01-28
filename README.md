@@ -3,10 +3,10 @@
 <p align='center'>
     Welcome to my Respo. Here below you can find some information about the Plugin {Apache 2.0 License}
 </p>
-
+<hr>
 <p align="center">Information</p>
 
-<h5>Permissions</5>
+<h5>Permissions</h5>
 <ul> 
     <li>clearchat.clear</li>
     <li>#soon</li>
