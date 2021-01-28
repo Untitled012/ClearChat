@@ -1,0 +1,12 @@
+name: Clearchat
+version: ${project.version}
+main: me.notcrypto.plugins.clearchat.clearchat.Clearchat
+authors: [ NxtCrypto_ ]
+description: This is a plugin that clears the chat!
+website: https://notcrypto.github.io
+
+commands:
+  clearchat:
+    description: A command to Clear the chat!
+  cc:
+    description: A other command to Clear the chat!

@@ -1,0 +1,9 @@
+## Author: NxtCrypto_
+## Version: v1.0
+## Config Version: v1.0
+
+## Messages when someone clears the Chat!
+broadcast: "&aChat has been cleared by &7%player%"
+
+
+## Permission: clearchat.clear
